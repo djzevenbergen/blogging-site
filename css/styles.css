@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: violet;
+}
+
+.post {
+  text-align: justify, center;
+  color: lightgreen;
+  
+}
+
+.about {
+  font-family: cursive;
+  color: cyan;
+  font-size: x-large;
+  font-weight: 900;
+  line-height: 0px;
+}
